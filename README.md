@@ -6,7 +6,7 @@ Python 3.9.2 or newer.
 
 # Get Started
 * Clone this repository.
-* Edit ```warranty_api.py``` and replace both upstream_api_url and x_api_key into what you've found. For safety reason they cannot be disclosed online.
+* Edit ```warranty_api.py``` and replace both upstream_api_url and x_api_key into what you've found. For safety reason they cannot be disclosed publicly.
 * Use pip to install all requirements:
 > pip install -r requirements.txt
 * Run main.py to host it over port 443. You may want to edit the port number and certificates if you don't want to protect it with SSL.
